@@ -1,8 +1,6 @@
-# Emissions Profile Upstream Product Analysis
-
-## Overview
-
-This repository contains Python code to analyze and visualize emissions profiles of upstream products at the product level. The main objective is to create a heatmap that shows the distribution of products by their ICTR risk categories for different companies.
+# Supply chain analysis based on input data.
+## Overview 
+The tilt methodology can also be applied to the supply chain of a company, to better understand the supply chain-related climate impact and risks. For applying the indicators to suppliers, the following approach is used in our Supply Chain Risk Model:
 
 ## Dataset
 
