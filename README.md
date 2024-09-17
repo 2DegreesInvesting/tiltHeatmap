@@ -82,6 +82,11 @@ plt.title('Heatmap of carbon intensive input products per supplier')
 plt.show()
 ```
 
+![Alt text](image.png)
+
+
+
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
